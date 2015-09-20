@@ -1,0 +1,15 @@
+{
+  "author": {
+    "name": "Mestari",
+    "email": "vmestari@gmail.com"
+  },
+  "name": "httprequest",
+  "description": "Simple httprequest executor",
+  "version": "0.0.1",
+  "repository": {
+    "url": "git://github.com/Mestari/node-httprequest.git"
+  },
+  "engines": {
+    "node": ">=0.6"
+  }
+}
